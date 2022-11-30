@@ -1,3 +1,5 @@
+# NOTE: This repo is just https://github.com/ChrisEric1/ChrisEric1.github.io/ but it's origin. Credit goes to the original author for creating this at all!
+
 ![BOT CLIENT](https://s12.directupload.net/images/200907/zcpxtyxp.png)
 
 <div>
